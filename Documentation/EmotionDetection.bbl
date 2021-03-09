@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{carrier2013fer}
+P.-L. Carrier, A.~Courville, I.~J. Goodfellow, M.~Mirza, and Y.~Bengio,
+  ``Fer-2013 face database,'' {\em Technical report}, 2013.
+
+\bibitem{lucey2010extended}
+P.~Lucey, J.~F. Cohn, T.~Kanade, J.~Saragih, Z.~Ambadar, and I.~Matthews, ``The
+  extended cohn-kanade dataset (ck+): A complete dataset for action unit and
+  emotion-specified expression,'' in {\em 2010 IEEE Computer Society Conference
+  on Computer Vision and Pattern Recognition-Workshops}, pp.~94--101, IEEE,
+  2010.
+
+\bibitem{simonyan2014very}
+K.~Simonyan and A.~Zisserman, ``Very deep convolutional networks for
+  large-scale image recognition,'' {\em arXiv preprint arXiv:1409.1556}, 2014.
+
+\bibitem{he2016deep}
+K.~He, X.~Zhang, S.~Ren, and J.~Sun, ``Deep residual learning for image
+  recognition,'' in {\em Proceedings of the IEEE conference on computer vision
+  and pattern recognition}, pp.~770--778, 2016.
+
+\bibitem{szegedy2016rethinking}
+C.~Szegedy, V.~Vanhoucke, S.~Ioffe, J.~Shlens, and Z.~Wojna, ``Rethinking the
+  inception architecture for computer vision,'' in {\em Proceedings of the IEEE
+  conference on computer vision and pattern recognition}, pp.~2818--2826, 2016.
+
+\bibitem{szegedy2017inception}
+C.~Szegedy, S.~Ioffe, V.~Vanhoucke, and A.~A. Alemi, ``Inception-v4,
+  inception-resnet and the impact of residual connections on learning,'' in
+  {\em Thirty-First AAAI Conference on Artificial Intelligence}, 2017.
+
+\bibitem{burkert2015dexpression}
+P.~Burkert, F.~Trier, M.~Z. Afzal, A.~Dengel, and M.~Liwicki, ``Dexpression:
+  Deep convolutional neural network for expression recognition,'' {\em arXiv
+  preprint arXiv:1509.05371}, 2015.
+
+\end{thebibliography}

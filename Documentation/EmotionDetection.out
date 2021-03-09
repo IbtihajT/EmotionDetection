@@ -1,0 +1,14 @@
+\BOOKMARK [1][-]{section.1}{Problem Statement}{}% 1
+\BOOKMARK [1][-]{section.2}{Datasets}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{FER2013 carrier2013fer}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{CK+ lucey2010extended}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Deep Learning Models}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{VGG16 simonyan2014very}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Resnet50 he2016deep}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.3}{Inception V3 szegedy2016rethinking}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.4}{Inception-Resnet-V2 szegedy2017inception}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.5}{DeXpression burkert2015dexpression}{section.3}% 10
+\BOOKMARK [1][-]{section.4}{Implementation}{}% 11
+\BOOKMARK [1][-]{section.5}{Results}{}% 12
+\BOOKMARK [2][-]{subsection.5.1}{CK+}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.2}{FER2013}{section.5}% 14
